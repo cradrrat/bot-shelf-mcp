@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bot-shelf",
+  "version": "1.0.0",
+  "description": "Search Bot Shelf, a directory of 9,000+ community Grok Bots, by the job you want done, with each creator credited.",
+  "author": {
+    "name": "Nomis",
+    "url": "https://x.com/cradrrat"
+  },
+  "homepage": "https://botshelf.dev/connector/",
+  "repository": "https://github.com/cradrrat/bot-shelf-mcp",
+  "keywords": ["grok", "grok-bot", "agents", "directory", "mcp"]
+}

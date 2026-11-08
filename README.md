@@ -37,6 +37,29 @@ Full setup steps: [botshelf.dev/connector](https://botshelf.dev/connector/)
 }
 ```
 
+## Add it as a skill
+
+For Claude Code, Cursor, Codex and other agents that use skills:
+
+```bash
+npx skills add cradrrat/bot-shelf-mcp
+```
+
+The skill searches Bot Shelf through the connector, and falls back to plain HTTP when no MCP server is set up.
+
+## Add it to Hermes Agent
+
+```bash
+hermes plugins install cradrrat/bot-shelf-mcp --no-enable
+hermes plugins enable bot-shelf
+```
+
+This repository is an Agent Plugins v1 package: `plugin.json`, `mcp.json` and `skills/bot-shelf/SKILL.md`, configuration only, with no code to run.
+
+## What it sends where
+
+Every tool call goes to `https://mcp.botshelf.dev/mcp`, which Bot Shelf runs on Cloudflare. Searches and lookups only read the public directory. `suggest_bot` sends the link you give it, plus an optional note and name, to a review queue, where it's kept for up to 30 days until a person reviews it. Searches aren't stored. Cloudflare rate-limits calls by IP address, and Bot Shelf doesn't keep those addresses. No account, key or stored credential is involved.
+
 ## Plain files
 
 Prefer files to a connector? See [botshelf.dev/llms.txt](https://botshelf.dev/llms.txt).
@@ -45,4 +68,4 @@ Prefer files to a connector? See [botshelf.dev/llms.txt](https://botshelf.dev/ll
 
 Bot Shelf is made by Nomis ([@cradrrat](https://x.com/cradrrat)). Bot listings belong to their creators. It isn't affiliated with xAI or X.
 
-The connector's source code isn't published here. This repository is its public listing page.
+The connector's source code isn't published here. This repository is its public listing page, skill and Hermes plugin.
