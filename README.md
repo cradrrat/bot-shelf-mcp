@@ -64,6 +64,16 @@ Every tool call goes to `https://mcp.botshelf.dev/mcp`, which Bot Shelf runs on 
 
 Prefer files to a connector? See [botshelf.dev/llms.txt](https://botshelf.dev/llms.txt).
 
+## $SHELF
+
+A community coin named after Bot Shelf, on Solana. It carries no claim on the site, no revenue and no say over what gets listed. Listing a bot is free and a person reviews every one.
+
+2g3NFpebwCV6Abz7AhmVC4xmsaczQXbqxHV4Khy4pump
+
+This address and the [pinned post on @cradrrat](https://x.com/cradrrat/status/2123947442756559151) are the only places it's published. Details: [botshelf.dev/token](https://botshelf.dev/token/)
+
+Nothing here is financial advice, and Bot Shelf will never ask you to connect a wallet.
+
 ## About
 
 Bot Shelf is made by Nomis ([@cradrrat](https://x.com/cradrrat)). Bot listings belong to their creators. It isn't affiliated with xAI or X.
