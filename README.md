@@ -1,6 +1,6 @@
 # Bot Shelf MCP connector
 
-Search [Bot Shelf](https://botshelf.dev), an independent directory of 9,000+ community Grok Bots, from any MCP client. Describe a job in plain words and get bots that fit, each with its creator credited and a link that adds it in Grok.
+Search [Bot Shelf](https://botshelf.dev), an independent directory of 11,000+ community Grok Bots, from any MCP client. Describe a job in plain words and get bots that fit, each with its creator credited and a link that adds it in Grok.
 
 ```
 https://mcp.botshelf.dev/mcp
