@@ -78,6 +78,6 @@ Nothing here is financial advice, and Bot Shelf will never ask you to connect a 
 
 ## About
 
-Bot Shelf is made by Nomis ([@cradrrat](https://x.com/cradrrat)). Bot listings belong to their creators. It isn't affiliated with xAI or X.
+Bot Shelf is made by [@cradrrat](https://x.com/cradrrat). Bot listings belong to their creators. It isn't affiliated with xAI or X.
 
 The connector's source code isn't published here. This repository is its public listing page, skill and Hermes plugin.
