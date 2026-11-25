@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "bot-shelf",
   "version": "1.0.0",
-  "description": "Search Bot Shelf, a directory of 9,000+ community Grok Bots, by the job you want done, with each creator credited.",
+  "description": "Search Bot Shelf, a directory of 11,000+ community Grok Bots, by the job you want done, with each creator credited.",
   "author": {
     "name": "cradrrat",
     "url": "https://x.com/cradrrat"
