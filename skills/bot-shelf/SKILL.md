@@ -1,6 +1,6 @@
 ---
 name: bot-shelf
-description: Find a ready-made community Grok Bot for a job on Bot Shelf (botshelf.dev), a directory of 9,000+ Grok Bots shared on X, each credited to its creator. Use when someone wants a Grok Bot, an agent template for the Grok app, or asks whether a bot already exists for a task, before building one from scratch.
+description: Find a ready-made community Grok Bot for a job on Bot Shelf (botshelf.dev), a directory of 11,000+ Grok Bots shared on X, each credited to its creator. Use when someone wants a Grok Bot, an agent template for the Grok app, or asks whether a bot already exists for a task, before building one from scratch.
 ---
 
 # Bot Shelf
