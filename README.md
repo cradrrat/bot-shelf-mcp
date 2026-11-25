@@ -72,6 +72,8 @@ A community coin named after Bot Shelf, on Solana. It carries no claim on the si
 
 This address and the [pinned post on @cradrrat](https://x.com/cradrrat/status/2123947442756559151) are the only places it's published. Details: [botshelf.dev/token](https://botshelf.dev/token/)
 
+70 million $SHELF, 7% of the launch supply, sit in two [Jupiter Locks](https://lock.jup.ag/token/2g3NFpebwCV6Abz7AhmVC4xmsaczQXbqxHV4Khy4pump). Nothing unlocks before 23 March 2027, and the last part unlocks on 21 August 2028. Nobody can cancel either lock.
+
 Nothing here is financial advice, and Bot Shelf will never ask you to connect a wallet.
 
 ## About
